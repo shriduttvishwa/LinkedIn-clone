@@ -9,4 +9,4 @@ linkedIn-clone made using ReactJS and firebase
 <li>npm i</li><br />
 
 #run<br />
-<li>npm start><br />
+<li>npm start</li><br />
